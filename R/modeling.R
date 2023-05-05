@@ -982,4 +982,3 @@ computeRegionDistance <- function(coordinates, group, trim = 0.1,
   return(d.spatial)
 
 }
-
